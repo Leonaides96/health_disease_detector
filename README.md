@@ -48,3 +48,8 @@ The **ROC curve** is a graphical representation that shows the **trade-off betwe
 - Includes a single summary score: **AUC (Area Under the Curve)**
   - AUC = 1.0 → perfect model
   - AUC = 0.5 → random guessing
+
+### Addition comment:
+- We can summary that the correlation are not Equal to say which features are provide the best to the target
+- Hyperparam could be change the model are to better or the worst, is depend on the case
+- Having the feature importances are best to checking which are the model or the features are provide best to the target
