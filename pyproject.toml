@@ -1,6 +1,6 @@
 [project]
 name = "health-dataset"
-version = "0.1.1"
+version = "0.2"
 description = "This project uses a binary classifier to detect whether a person has a particular disease. To evaluate the effectiveness of the model, we focus on three key performance metrics"
 readme = "README.md"
 requires-python = ">=3.12"
